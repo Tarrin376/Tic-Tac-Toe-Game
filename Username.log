@@ -1,0 +1,5 @@
+2020-12-07 19:54:45,942:INFO:__main__:Valid username: example
+2020-12-07 19:54:53,659:DEBUG:__main__:Invalid username: g%
+2020-12-07 19:54:58,273:DEBUG:__main__:Invalid username: invalid*
+2020-12-07 19:55:03,049:DEBUG:__main__:Invalid username: hello_
+2020-12-07 19:55:09,287:INFO:__main__:Valid username: correct
